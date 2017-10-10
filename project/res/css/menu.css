@@ -1,0 +1,52 @@
+@import url('font.css');
+section{
+	width: 80%;
+	float: left;
+	margin-left: 10%;
+}
+
+.menu-custom{
+	width: 15%;
+	float: left;
+}
+
+.tab-content-custom{
+	float: left;
+	width: 80%;
+	margin-left: 5%;
+}
+
+.thumbnail-custom{
+	float: left;
+	width: 30%;
+	margin-left: 1%;
+	margin-right: 1%;
+	height: 400px;
+}
+
+.thumbnail-custom img{
+	width:100%;
+}
+
+.thumbnail-custom .caption{
+	height:55%;
+}
+
+.thumbnail-custom .nail-title{
+	max-height: 40%;
+	overflow-wrap: break-word;
+	overflow: hidden;
+	margin:0;
+	font-family: 'Acme', sans-serif;
+	font-size: x-large;
+}
+
+.thumbnail-custom .nail-content{
+	height: 57%;
+	overflow-wrap: break-word;
+	overflow: hidden;
+	margin:3% 0 0 0;
+	font-family: 'Assistant', sans-serif;
+	font-size: small;
+	color: #868282;
+}

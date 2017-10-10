@@ -1,0 +1,15 @@
+@import url('font.css');
+.bookform{
+	width: 100%;
+	float: left;
+	padding: 0 25% 0 25%;
+}
+
+.booking-success{
+	width: 100%;
+	padding: 10% 0 10% 0;
+	font-size: xx-large;
+	text-align:center;
+	float: left;
+	font-family: 'Dancing Script', cursive;
+}

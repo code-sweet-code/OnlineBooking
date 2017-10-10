@@ -1,0 +1,78 @@
+@import url('font.css');
+
+body{
+	padding-top: 111px;
+}
+
+nav {
+	padding-top: 20px;
+	padding-bottom: 20px;
+	float: left;
+	width: 100%
+	opacity:0.7;
+}
+
+.navbar-header-custom{
+	float: left;
+}
+
+.navbar-header-custom img{
+	width: 100px;
+	position: relative;
+	top: -32px;
+	left: 40px;
+}
+
+.navbar-nav-custom{
+	width: 80%;
+	float: right;
+}
+
+.navbar-nav-custom li{
+	width: 15%;
+	text-align: center;
+}
+
+.navbar-nav-custom li a{
+	font-family: 'Kaushan Script', cursive;
+	font-size:	x-large;
+}
+
+footer{
+	width: 100%;
+	float: left;
+	margin-top: 20px;
+}
+
+.footer-top-border{
+	border-top: 1px solid rgba(158, 158, 158, 0.62);
+}
+
+.footer-container{
+	width: 100%;
+	padding-left: 10%;
+	padding-right: 10%;
+	float: left;
+}
+
+.footer-container h4{
+	font-family: 'Varela Round', sans-serif;
+}
+
+.footer-container ul{
+	width: 40%;
+	list-style-type: none;
+	margin: 0;
+    padding: 0;
+	float: left;
+}
+
+.footer-container ul li a{
+	color: black;
+}
+
+.footer-container p{
+	text-align: right;
+	clear: both;
+	font-size: smaller;
+}
